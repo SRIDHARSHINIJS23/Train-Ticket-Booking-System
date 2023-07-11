@@ -1,0 +1,51 @@
+.top1{
+    background-image:  url('assests/login.jpg');
+    background-size:cover;
+    /* background-repeat: no-repeat; */
+    /* display:flex; */
+    padding-top: 130px;
+   height:745px;
+   opacity:0.8;
+   
+  }
+  .container {
+    background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* margin-top:100px; */
+    /* padding-top: 40px; */
+    max-width: 300px;
+    /* justify-content: right;
+    padding-left: 100px; */
+    margin: 0 auto;
+    display:flex;
+    padding: 40px;
+    border-radius: 6px;
+    padding-bottom: 70px;
+    box-shadow: 0 0 10px rgba(239, 138, 31, 0.5);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  form button {
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4c98af;
+    color: white;
+    cursor: pointer;
+    
+  }
+  
+  form button:hover {
+    background-color: #45a049;
+  }

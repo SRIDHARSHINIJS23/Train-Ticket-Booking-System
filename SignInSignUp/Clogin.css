@@ -1,0 +1,23 @@
+#outline{
+    padding-top: 10%;
+    background-image:  url('assests/login.jpg');
+    height:745px;
+   opacity:0.8;
+   background-size:cover;
+   
+}
+.container {
+    background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* margin-top:100px; */
+    /* padding-top: 40px; */
+    max-width: 300px;
+    /* justify-content: right;
+    padding-left: 100px; */
+    margin: 0 auto;
+    display:flex;
+    padding: 40px;
+    border-radius: 6px;
+    padding-bottom: 70px;
+    box-shadow: 0 0 10px rgba(239, 138, 31, 0.5);
+  }
