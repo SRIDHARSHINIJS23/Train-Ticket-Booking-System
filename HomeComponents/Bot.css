@@ -1,0 +1,45 @@
+footer{
+	width: 100%;
+	background-color:  rgb(216, 181, 181);
+}
+
+.link {
+	padding-right: 7%;
+	height: 30px;
+	gap:0.7rem;
+	justify-content: space-between;
+	width: 100%;
+	border-radius: 1px;
+	text-align: center;
+	margin: 7px;
+	/* line-height: 80px; */
+}
+
+a i {
+	transition: all 0.3s linear;
+}
+
+a:hover i {
+	transform: scale(1.5);
+}
+.youtube:hover{
+	color:#db2b39;
+}
+.phone:hover{
+	color:rgb(19, 238, 161);
+}
+
+.facebook:hover {
+	color: blue;
+}
+
+.instagram:hover {
+	color: #e11d74;
+}
+
+.twitter:hover {
+	color: #00adb5;
+}
+.email:hover{
+	color:#db2b39;
+}

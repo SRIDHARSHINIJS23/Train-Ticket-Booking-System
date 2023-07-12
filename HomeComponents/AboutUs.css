@@ -1,0 +1,48 @@
+.a1{
+    /* padding-top: 10%; */
+    background-image:  url('assests/homebg.jpg');
+    /* height:745px; */
+   
+   background-size:cover;
+    /* background-color: aliceblue; */
+    /* height: 100vh; */
+    width: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#a2{
+    box-shadow: 0 40px 60px rgba(142, 135, 135, 0.1);
+    background-color:white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: cursive;
+    font-size: large;
+}
+p{
+    font-size: 20px;
+}
+.ab3 {
+    background-color: aliceblue;
+    float: left;
+    height:100vh;
+    width: 25%;
+    padding: 2%;
+    /* padding-left:4%; */
+    padding:20px;
+    margin:0 auto;
+    
+} 
+.ab2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.ab2{
+    /* padding-left: 2%;
+    padding-right: 2%; */
+    padding: 20px;
+}
