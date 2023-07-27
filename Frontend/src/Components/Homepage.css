@@ -1,0 +1,61 @@
+.scroll1{
+    background-image: url('./assests/homebg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:100vh;
+}
+/* .scroll{
+    overflow-y: scroll;
+    height:100vh;
+    width:100%;
+} */
+.d11{
+    padding-top: 15%;
+    padding-left: 10%;
+    /* padding-bottom: 10%; */
+    padding-right: 10%;
+    /* background-color: aliceblue; */
+    /* background-image: url('./assests/homebg.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100%;
+}
+.d21{
+    /* width:70%; */
+   height:50vh;
+   width:100%;
+   background-color: rgb(8, 9, 9,0.7); 
+   
+}
+.d31{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+     /* background-color: aqua; */
+    height:100%;
+    width:40%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* padding-bottom: 5%; */
+    /* background-color: aqua; */
+    float:left;
+}
+.inp1{
+    /* padding-right: 2%;  */
+    /* float:left; */
+    width:100%;
+    height:7vh;
+    border-radius: 10px;
+}
+.d41{
+    /* margin-top:0px; */
+    height:100%;
+    padding-right: 2%;
+    /* background-color:red; */
+    padding-top: 7%;
+    width:60%;
+    float:right;
+    
+}
